@@ -15,3 +15,5 @@ mean (2:6)
 # Loading packages --------------------------------------------------------
 
 library(tidyverse)
+
+#Here is an example of a conflict
