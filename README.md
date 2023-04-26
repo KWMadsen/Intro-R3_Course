@@ -4,7 +4,7 @@ Genomics
 Added 
 Added remotely
 
-TODO: Add more to the title of your project here
+TODO: Add more to the title of your Ticktock here
 
 # Intro-R3_Course:
 
