@@ -16,4 +16,5 @@ mean (2:6)
 
 library(tidyverse)
 
-#Here is an example of a conflict
+#Example of conflict added remotely
+
