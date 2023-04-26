@@ -15,3 +15,5 @@ mean (2:6)
 # Loading packages --------------------------------------------------------
 
 library(tidyverse)
+
+#Example of conflict added remotely
